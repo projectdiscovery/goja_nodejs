@@ -12,7 +12,7 @@ import (
 	"syscall"
 	"testing"
 
-	js "github.com/Mzack9999/goja"
+	js "github.com/projectdiscovery/goja"
 )
 
 func mapFileSystemSourceLoader(files map[string]string) SourceLoader {

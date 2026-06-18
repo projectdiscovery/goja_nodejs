@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/Mzack9999/goja"
-	"github.com/Mzack9999/goja_nodejs/errors"
+	"github.com/projectdiscovery/goja"
+	"github.com/projectdiscovery/goja_nodejs/errors"
 
 	"golang.org/x/net/idna"
 )

@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Mzack9999/goja"
+	"github.com/projectdiscovery/goja"
 
 	"go.uber.org/goleak"
 )

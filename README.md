@@ -1,7 +1,7 @@
 Nodejs compatibility library for Goja
 ====
 
-This is a collection of [Goja](https://github.com/Mzack9999/goja) modules that provide nodejs compatibility.
+This is a collection of [Goja](https://github.com/projectdiscovery/goja) modules that provide nodejs compatibility.
 
 Example:
 
@@ -9,8 +9,8 @@ Example:
 package main
 
 import (
-    "github.com/Mzack9999/goja"
-    "github.com/Mzack9999/goja_nodejs/require"
+    "github.com/projectdiscovery/goja"
+    "github.com/projectdiscovery/goja_nodejs/require"
 )
 
 func main() {

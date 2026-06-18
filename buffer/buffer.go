@@ -10,10 +10,10 @@ import (
 	"reflect"
 	"strconv"
 
-	"github.com/Mzack9999/goja"
-	"github.com/Mzack9999/goja_nodejs/errors"
-	"github.com/Mzack9999/goja_nodejs/goutil"
-	"github.com/Mzack9999/goja_nodejs/require"
+	"github.com/projectdiscovery/goja"
+	"github.com/projectdiscovery/goja_nodejs/errors"
+	"github.com/projectdiscovery/goja_nodejs/goutil"
+	"github.com/projectdiscovery/goja_nodejs/require"
 
 	"github.com/dop251/base64dec"
 	"golang.org/x/text/encoding/unicode"

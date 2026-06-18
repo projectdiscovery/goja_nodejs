@@ -4,9 +4,9 @@ import (
 	"reflect"
 	"sort"
 
-	"github.com/Mzack9999/goja_nodejs/errors"
+	"github.com/projectdiscovery/goja_nodejs/errors"
 
-	"github.com/Mzack9999/goja"
+	"github.com/projectdiscovery/goja"
 )
 
 var (
