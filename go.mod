@@ -6,8 +6,8 @@ require (
 	github.com/dop251/base64dec v0.0.0-20231022112746-c6c9f9a96217
 	github.com/projectdiscovery/goja v0.0.0-20260618132230-ca34dd1a24bd
 	go.uber.org/goleak v1.3.0
-	golang.org/x/net v0.27.0
-	golang.org/x/text v0.16.0
+	golang.org/x/net v0.38.0
+	golang.org/x/text v0.23.0
 )
 
 require (
